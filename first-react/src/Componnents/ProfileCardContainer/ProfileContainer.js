@@ -1,5 +1,5 @@
 import ProfileCards from "../ProfileCards/ProfileCards";
-import '../ProfileCardContainer/Profile.componnent.style.css'
+import './Profile.componnent.style.css'
 import img from '../../Images/img.png'
 import img2 from '../../Images/img_1.png'
 import img3 from '../../Images/img_2.png'

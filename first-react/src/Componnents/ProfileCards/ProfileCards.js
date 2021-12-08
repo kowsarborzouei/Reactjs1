@@ -1,5 +1,5 @@
 import img from '../../Images/img.png'
-import '../ProfileCards/profile.card.style.css'
+import './profile.card.style.css'
 function ProfileCards({name,status,img}){
     // const {name,status,img}=props
     return(
