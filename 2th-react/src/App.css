@@ -1,0 +1,35 @@
+.App{
+    width: 50vw;
+    height: 50vh;
+    margin: auto;
+    overflow: scroll;
+    overflow-x:hidden ;
+    box-shadow: 0 0 0 1px lavender;
+}
+table{
+    border: 0px solid ;
+    border-collapse: collapse;
+    background-color: #F5EEDC;
+    width: 100%;
+}
+thead{
+    background-color: #DD4A48;
+    font-weight: bold;
+}
+td{
+    padding: 8px;
+    text-align: center;
+}
+tr:nth-child(even){
+    background-color: #97BFB4;
+}
+button{
+    border: 0;
+    border-radius: 5px;
+    background-color: #4F091D;
+    color: #fff;
+    width: 8vw;
+    height: 5vh;
+    margin-left: 5px;
+    cursor: pointer;
+}
